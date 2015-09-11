@@ -1,0 +1,15 @@
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\bin\Debug\The Pancake Injector.exe.config
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\bin\Debug\The Pancake Injector.exe
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\bin\Debug\The Pancake Injector.pdb
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\bin\Debug\The Pancake Injector.xml
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\obj\Debug\The_Pancake_Injector.Form1.resources
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\obj\Debug\The_Pancake_Injector.Resources.resources
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\obj\Debug\The Pancake Injector.vbproj.GenerateResource.Cache
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\obj\Debug\The Pancake Injector.exe
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\obj\Debug\The Pancake Injector.xml
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\obj\Debug\The Pancake Injector.pdb
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\obj\Debug\The_Pancake_Injector.SplashScreen1.resources
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\bin\Debug\The Pancake Injector.exe.manifest
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\bin\Debug\The Pancake Injector.application
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\obj\Debug\The Pancake Injector.exe.manifest
+c:\users\byte code\documents\visual studio 2013\Projects\The Pancake Injector\The Pancake Injector\obj\Debug\The Pancake Injector.application
